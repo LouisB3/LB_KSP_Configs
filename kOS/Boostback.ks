@@ -11,7 +11,7 @@ For var in reservetank:resources {
   Set initial_reserve_mass to initial_reserve_mass + (var:amount * var:density).
 }.
 Set current_reserve_mass to initial_reserve_mass.
-Print "Watching to stage...".
+Print "Waiting to stage...".
 Wait until boosterengine:flameout = true.
 Print "Staging.".
 Stage.
@@ -29,7 +29,7 @@ For var in reservetank:resources {
 Print "Enabling RCS.".
 RCS on.
 Print "Steering west.".
-Lock steering to heading(270,0).
+Lock steering to heading(270,0) + R(0,0,270).
 Print "Waiting 25 seconds for steering.".
 Wait 25.
 //Boost back until we will impact near the launch site...
@@ -60,6 +60,11 @@ Unlock steering.
 Wait 15.
 Print "Releasing control.".
 Unlock throttle.
+When altitude < 10000 then {
+  Print "Deploying landing gear.".
+  Brakes on.
+  Gear on.
+}.
 Until false {
   if ship:status = "LANDED" or ship:status = "SPLASHED" {
     Print "Surface reached. Program ending.".
@@ -86,7 +91,7 @@ Function impact_longitude {
 }.
 
 Function impact_distance {
-  return impact_longitude() - launch_longitude.
+  return abs(impact_longitude() - launch_longitude).
 }.
 
 Function impact_distance_km {
