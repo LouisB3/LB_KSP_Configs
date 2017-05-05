@@ -1,8 +1,10 @@
 ABL	Myriad Pro Italic
 DIRECT	Myriad Pro Bold
 E&E	Agency FB Bold
+EVA	Impact
 FFT	Back to the Future 2002
 KIS-KAS	Impact
+KPBS	Nasalization
 KRE	Bitsumishi
 LH2	Futura
 Mk4	Helvetica Bold
@@ -16,7 +18,7 @@ SR	Agency FB Bold
 SSPX	Back to the Future 2002
 STS	Helvetica Bold
 SXT	Microsquare
-THCV	Alternate Gothic No1 D Regular
+THCV	Alternate Gothic No1
 Trb	Amarillo
 TST	Helvetica Bold
 USI	Agency FB Bold
