@@ -1,0 +1,22 @@
+ABL	Myriad Pro Italic
+DIRECT	Myriad Pro Bold
+E&E	Agency FB Bold
+FFT	Back to the Future 2002
+KIS-KAS	Impact
+KRE	Bitsumishi
+LH2	Futura
+Mk4	Helvetica Bold
+MkX	Helvetica Bold
+NFT	Back to the Future 2002
+Pork	Futura
+RLA	Syncopate
+Snacks	Comic Neue Angular
+Sqd	Stencil Bold
+SR	Agency FB Bold
+SSPX	Back to the Future 2002
+STS	Helvetica Bold
+SXT	Microsquare
+THCV	Alternate Gothic No1 D Regular
+Trb	Amarillo
+TST	Helvetica Bold
+USI	Agency FB Bold
