@@ -1,11 +1,3 @@
-Revise KPBS, BDB CTT integration
-Revise ABL, DIRECT CTT integration to match NFLV
-strip DMagic requirements from BDB
+Revise KPBS CTT integration
+
 Icons: KerbalHealth, HabTech
-Troubleshoot KerbalHealth
-Lab balance (Taurus)
-More cryo RCS
-Troubleshoot snacks, kh
-various github issues...
-  Improving habtech
-  etc
