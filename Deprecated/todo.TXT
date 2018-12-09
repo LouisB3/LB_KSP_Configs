@@ -1,3 +1,0 @@
-Revise KPBS CTT integration
-
-Icons: KerbalHealth, HabTech
