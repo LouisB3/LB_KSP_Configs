@@ -1,25 +1,16 @@
-ABL	Myriad Pro Italic
 CA	Nasalization
 DIRECT	Myriad Pro Bold
-E&E	Agency FB Bold
 EVA	Impact
 FFT	Back to the Future 2002
-KIS-KAS	Impact
 KPBS	Nasalization
 KRE	Bitsumishi
 LH2	Futura
 Mk4	Helvetica Bold
-MkX	Helvetica Bold
 NFT	Back to the Future 2002
-Pork	Futura
 RLA	Syncopate
 Snacks	Comic Neue Angular
-SPT	Helvetica Bold
 Sqd	Stencil Bold
-SR	Agency FB Bold
 SSPX	Back to the Future 2002
-SXT	Microsquare
-THCV	Alternate Gothic No1
 Trb	Amarillo
 TST	Helvetica Bold
-USI	Agency FB Bold
+SEP	Futura
