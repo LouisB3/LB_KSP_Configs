@@ -13,11 +13,11 @@ As a side effect, lunar contracts will have somewhat greater rewards (and contra
 The EVA jetpack in stock KSP is wildly overpowered. This tweaks jetpack capabilities so that it resembles NASA's Manned Maneuverability Unit. EVA propulsion remains suitable for local spacewalks, but orbital maneuvers are more limited, and unassisted descent or ascent on Minmus is out of the question.
 
 - Thrust, specific impulse, and propellant load have all been nerfed.
-  - Thrust is 15% of stock (39 N, down from 259 N).
-  - Specific impulse is 30% of stock (63 s, down from 211 s).
+  - Thrust is 12% of stock (30 N, down from 259 N).
+  - Specific impulse is 28% of stock (60 s, down from 211 s).
   - Propellant capacity is reduced from 25 kg to 12 kg.
-- Acceleration is now about 0.05g instead of around 0.33g.
-- Delta-V is now 105 m/s, down from 674 m/s.
+- Acceleration is now about 0.04g instead of around 0.33g.
+- Delta-V is now 100 m/s, down from 674 m/s.
 - EVA fuel cylinders have had their capacity and dry mass reduced.
 - Lunar surface EVA flight is now effectively impossible, so lander ladders become critical; the basic ladder has been moved in the tech tree from Space Exploration to Survivability.
 
