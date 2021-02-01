@@ -1,0 +1,3 @@
+// Prevent loading of deprecated parts
+
+NearFutureLaunchVehicles/Legacy/
