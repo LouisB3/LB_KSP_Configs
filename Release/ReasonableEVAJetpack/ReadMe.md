@@ -8,12 +8,15 @@ The EVA jetpack in stock KSP is wildly overpowered. This tweaks jetpack capabili
   - Propellant capacity is reduced from 25 kg to 12 kg.
 - Acceleration is now about 0.04g instead of around 0.33g.
 - Delta-V is now 100 m/s, down from 674 m/s.
+- Nitrogen is now used as a propellant instead of the generic stock propellant.
 - EVA fuel cylinders have had their capacity and dry mass reduced.
 - Lunar surface EVA flight is now effectively impossible, so lander ladders become critical; the basic ladder has been moved in the tech tree from Space Exploration to Survivability.
 
 This will affect all kerbals everywhere, including those already in flight; this is because KSP stores most of the relevant parameters in the KerbalEVA module, so it's not possible to create multiple types of jetpack with different characteristics. Consider installing this only on a new save; or at a minimum, back up your savegame first.
 
-- **Dependency**: KSP 1.11+
+**Dependencies**:
+- KSP 1.11.1+
+- Community Resource Pack
 
 ## License
 
