@@ -1,4 +1,3 @@
-NearFutureLaunchVehicles/Legacy/
 NearFutureElectrical/Legacy/
 RationalResources/Parts/Scanner/
 RationalResourcesParts/Parts/Engines/
@@ -10,3 +9,9 @@ kOS/Parts/
 KerbalEngineer/Parts/
 MechJeb2/Parts/
 BonVoyage/Parts/
+KerbalReusabilityExpansion/DockingPort/
+KerbalReusabilityExpansion/Engine/
+KerbalReusabilityExpansion/FuelTank/
+KerbalReusabilityExpansion/HeatShield/
+KerbalReusabilityExpansion/Trunk/
+KerbalReusabilityExpansion/BoosterWing/
