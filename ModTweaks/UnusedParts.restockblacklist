@@ -15,6 +15,7 @@ KerbalReusabilityExpansion/FuelTank/
 KerbalReusabilityExpansion/HeatShield/
 KerbalReusabilityExpansion/Trunk/
 KerbalReusabilityExpansion/BoosterWing/
+KerbalReusabilityExpansion/ColdGasThruster/
 TextureReplacer/Skins/TR/
 KerbalismConfig/Parts/GravityRing/
 KerbalismConfig/Parts/Greenhouse/
@@ -23,3 +24,4 @@ KerbalismConfig/Parts/RadialContainer/
 KerbalismConfig/Parts/ShortAntenna/
 KerbalismConfig/Parts/TacLifeSupport/TacLifeSupportHexCans/
 KerbalismConfig/Parts/TacLifeSupport/TacLifeSupportContainers/
+NearFutureSpacecraft/Parts/RCS/rcsblock-orbital/
